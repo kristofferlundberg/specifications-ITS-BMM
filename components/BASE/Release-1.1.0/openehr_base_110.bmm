@@ -236,7 +236,6 @@ primitive_types = <
 				name = <"V">
 		>
 	>
-	>
 
 	["Container"] = <
 		name = <"Container">
