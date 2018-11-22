@@ -131,7 +131,10 @@ class_definitions = <
 					type = <"OBJECT_REF">
 				>
 				cardinality = <|>=0|>
-				is_mandatory = <True>
+			>
+			["directory"] = (P_BMM_SINGLE_PROPERTY) <
+				name = <"directory">
+				type = <"OBJECT_REF">
 			>
 			--
 			-- add this function to create a reachability link from EHR to COMPOSITION, which allows
